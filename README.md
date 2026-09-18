@@ -13,5 +13,5 @@
 
 ## Publishing
 
-- The [Journal of Open Source Software](https://joss.theoj.org/) (JOSS) is an open-access, developer-friendly, open peer-reviewed journal.
+- [The Journal of Open Source Software](https://joss.theoj.org/) (JOSS) is an open-access, developer-friendly, open peer-reviewed journal.
 - [Zenodo](https://zenodo.org/) is a "catch-all repository" for any digital artefact resulting from research.
